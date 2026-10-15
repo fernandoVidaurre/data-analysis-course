@@ -10,7 +10,7 @@ env/
 .ipynb_checkpoints/
 
 # Datos sensibles
-*.csv
+# *.csv
 *.xlsx
 *.xls
 data/raw/
